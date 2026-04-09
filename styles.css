@@ -1,0 +1,45 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #FFE600; /* amarillo ML */
+}
+
+
+.card-body {
+  background-color: #faf8fa;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+  border-radius: 12px;
+}
+
+
+.card-title {
+  color: darkblue;
+  font-weight: bold;
+  text-align: center; 
+}
+
+.card-text {
+  font-size: 15px;
+  color: gray;
+}
+
+.precio-text {
+  font-weight: bold;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.btn-primary {
+  background-color: black;
+  border: none;
+  
+}
