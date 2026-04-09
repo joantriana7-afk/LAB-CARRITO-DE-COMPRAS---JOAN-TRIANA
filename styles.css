@@ -37,6 +37,10 @@ nav {
   border-radius: 10px; 
 }
 
+/* espaciado contenedor de cards y nav */
+.container.mt-4 { 
+  margin-top: 100px !important;
+}
 
 .card-body {
   background-color: #faf8fa;
