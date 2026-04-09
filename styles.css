@@ -11,6 +11,32 @@ nav {
   font-size: 30px;
 }
 
+.texto-total {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.btn-vaciar {
+  background-color: rgb(22, 13, 186);
+  border: none;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px; 
+}
+
+.btn-vaciar:hover, .btn-carro:hover {
+  background-color: #333;
+  transform: scale(1.05);
+}
+
+.btn-carro {
+  background-color: rgb(22, 13, 186);
+  border: none;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px; 
+}
+
 
 .card-body {
   background-color: #faf8fa;
